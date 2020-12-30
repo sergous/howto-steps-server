@@ -1,0 +1,15 @@
+{
+    "appName": "howto-steps",
+    "cloud": "./cloud/main",
+    "databaseURI": "mongodb://127.0.0.1:27017/parse",
+    "apiPath": "/parse",
+    "serverURL": "http://localhost:8000/parse",
+    "publicServerURL": "http://localhost:8000/parse",
+    "graphQLPath": "/graphql",
+    "graphQLServerURL": "http://localhost:8000/graphql",
+    "playgroundPath": "/playground",
+    "playgroundURL": "http://localhost:8000/playground",
+    "dashboardPath": "/dashboard",
+    "dashboardURL": "http://localhost:8000/dashboard",
+    "serverPort": 8000
+}
